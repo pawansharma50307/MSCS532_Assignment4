@@ -1,0 +1,61 @@
+distribution,n,algorithm,mean_ms,min_ms,ns_per_nlogn
+random,1000,Heapsort,1.1805,1.1191,118.4553
+random,1000,Quicksort,0.7919,0.7894,79.4585
+random,1000,Merge Sort,0.927,0.9232,93.0149
+random,1000,sorted() ref,0.059,0.0526,5.9203
+random,5000,Heapsort,7.2338,6.9451,117.7409
+random,5000,Quicksort,4.621,4.5359,75.2133
+random,5000,Merge Sort,5.5313,5.3086,90.0303
+random,5000,sorted() ref,0.378,0.3678,6.1525
+random,10000,Heapsort,15.5007,15.4708,116.6544
+random,10000,Quicksort,9.6692,9.4586,72.7677
+random,10000,Merge Sort,11.7291,11.5169,88.2703
+random,10000,sorted() ref,0.8865,0.8759,6.6716
+random,50000,Heapsort,92.8958,90.7074,119.0236
+random,50000,Quicksort,53.9788,52.9672,69.1608
+random,50000,Merge Sort,68.3442,68.2204,87.5667
+random,50000,sorted() ref,5.1829,5.1263,6.6406
+random,100000,Heapsort,203.2611,199.4921,122.3754
+random,100000,Quicksort,112.849,111.9696,67.9419
+random,100000,Merge Sort,138.2129,137.2484,83.2125
+random,100000,sorted() ref,11.2958,11.0218,6.8007
+sorted,1000,Heapsort,1.1464,1.1045,115.0303
+sorted,1000,Quicksort,0.7766,0.69,77.9233
+sorted,1000,Merge Sort,0.6849,0.6706,68.7285
+sorted,1000,sorted() ref,0.0048,0.0031,0.485
+sorted,5000,Heapsort,8.0463,7.3786,130.9655
+sorted,5000,Quicksort,4.2048,3.8435,68.4396
+sorted,5000,Merge Sort,3.8921,3.7612,63.35
+sorted,5000,sorted() ref,0.0155,0.015,0.2517
+sorted,10000,Heapsort,15.9231,15.8214,119.8335
+sorted,10000,Quicksort,8.1883,8.0597,61.6233
+sorted,10000,Merge Sort,7.9913,7.8369,60.1405
+sorted,10000,sorted() ref,0.0325,0.0322,0.2448
+sorted,50000,Heapsort,94.0175,93.5544,120.4609
+sorted,50000,Quicksort,44.5934,43.8172,57.1357
+sorted,50000,Merge Sort,43.7508,43.5141,56.0561
+sorted,50000,sorted() ref,0.2458,0.2162,0.3149
+sorted,100000,Heapsort,199.7252,198.9098,120.2466
+sorted,100000,Quicksort,95.6469,93.273,57.5852
+sorted,100000,Merge Sort,91.4394,91.0685,55.052
+sorted,100000,sorted() ref,0.5217,0.4983,0.3141
+reverse,1000,Heapsort,1.0016,0.9911,100.5072
+reverse,1000,Quicksort,0.7402,0.6949,74.2741
+reverse,1000,Merge Sort,0.6835,0.6766,68.5847
+reverse,1000,sorted() ref,0.0039,0.0035,0.3947
+reverse,5000,Heapsort,6.7098,6.6359,109.2121
+reverse,5000,Quicksort,4.0675,4.0225,66.2049
+reverse,5000,Merge Sort,3.9532,3.8912,64.344
+reverse,5000,sorted() ref,0.0177,0.0173,0.2881
+reverse,10000,Heapsort,14.5825,14.395,109.7445
+reverse,10000,Quicksort,8.4343,8.2991,63.4744
+reverse,10000,Merge Sort,8.312,8.2526,62.554
+reverse,10000,sorted() ref,0.0367,0.0347,0.2762
+reverse,50000,Heapsort,87.0828,85.762,111.5757
+reverse,50000,Quicksort,45.0342,44.5749,57.7005
+reverse,50000,Merge Sort,44.887,44.656,57.5119
+reverse,50000,sorted() ref,0.233,0.2044,0.2985
+reverse,100000,Heapsort,190.3622,182.6075,114.6095
+reverse,100000,Quicksort,95.1456,93.4382,57.2834
+reverse,100000,Merge Sort,106.0569,96.0162,63.8526
+reverse,100000,sorted() ref,1.3918,0.8991,0.8379

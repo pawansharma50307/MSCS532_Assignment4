@@ -1,0 +1,4 @@
+policy,tasks,avg_wait,max_wait,avg_turnaround,missed_deadlines,missed_pct,makespan,wait_high,wait_medium,wait_low,pq_inserts,pq_extracts,pq_increase_key
+FCFS,200,56.182,109.25,60.647,177,88.5,912.77,53.34,57.293,57.588,0,0,0
+Priority,200,54.437,564.41,58.902,75,37.5,912.77,4.045,11.906,152.307,200,200,0
+Priority+Aging,200,56.227,162.38,60.692,133,66.5,912.77,9.963,48.866,108.947,200,200,505
